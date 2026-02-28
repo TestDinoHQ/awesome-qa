@@ -38,6 +38,7 @@ Quality Assurance is crucial for delivering high-quality, stable, and secure sof
 - [Jira](https://www.atlassian.com/software/jira) – Widely used issue and project tracking software with testing plugins.
 - [Bugzilla](https://www.bugzilla.org/) – Open-source bug tracking system.
 - [Allure TestOps](https://qameta.io/testops/) – Unified platform for manual and automated test management.
+- [TestDino](https://testdino.com/)) – A Playwright‑focused test reporting and analytics platform that centralizes CI runs, classifies failures, and uses AI insights to help teams debug faster and ship more reliable releases
 
 ## Manual Testing
 
